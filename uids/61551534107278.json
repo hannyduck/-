@@ -1,0 +1,240 @@
+[
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "khen tôi dz",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "Bạn thật tuyệt vời! 👍 \nIs there anything else I can help you with? \n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "học sinh tháng mấy nghỉ hè",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "Cảm ơn bạn! 😊\n\nHọc sinh thường nghỉ hè vào khoảng tháng **5 hoặc tháng 6**, tùy thuộc vào lịch học cụ thể của từng quốc gia hoặc khu vực. \n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "kiên dz k",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "Kiên cũng dz lắm! 😎👍\n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "kiên dz k",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "Kiên cũng dz lắm! 😎👍 \nBạn có cần tôi giúp gì nữa không? \n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "code web",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "## Code Web: Bắt đầu từ đâu?\n\nĐể giúp bạn code web hiệu quả, tôi cần biết thêm thông tin về mục tiêu và trình độ của bạn:\n\n**1. Mục tiêu của bạn là gì?**\n\n* **Tạo website cá nhân:** Blog, portfolio, trang giới thiệu bản thân.\n* **Xây dựng website thương mại:** Cửa hàng online, website doanh nghiệp.\n* **Phát triển web app:** Ứng dụng web tương tác, game, công cụ trực tuyến.\n* **Học lập trình web:** Nắm vững kiến thức cơ bản về HTML, CSS, JavaScript.\n\n**2. Trình độ hiện tại của bạn:**\n\n* **Chưa biết gì:** Bắt đầu từ những kiến thức cơ bản nhất.\n* **Biết chút ít:** Có kiến thức cơ bản về HTML, CSS hoặc JavaScript.\n* **Có kinh nghiệm:** Đã từng xây dựng website hoặc web app.\n\n**3. Công nghệ bạn muốn sử dụng:**\n\n* **HTML, CSS, JavaScript:** Bộ ba công nghệ nền tảng cho mọi website.\n* **Framework:** React, Angular, Vue.js giúp phát triển web app nhanh chóng.\n* **CMS:** WordPress, Drupal, Joomla cho phép quản lý nội dung dễ dàng.\n\n**Dựa vào thông tin bạn cung cấp, tôi có thể gợi ý:**\n\n* **Tài liệu học tập:** Sách, khóa học online, website hướng dẫn.\n* **Công cụ và phần mềm:** Trình soạn thảo code, trình duyệt web, framework.\n* **Ví dụ và mẫu code:** Tham khảo để hiểu cách code web hoạt động.\n* **Cộng đồng hỗ trợ:** Diễn đàn, nhóm Facebook để trao đổi và học hỏi. \n\n**Hãy cho tôi biết thêm thông tin để tôi hỗ trợ bạn tốt nhất!** \n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "ghi cho tôi yêu kiên 20 lần",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "## 20 lần \"Tôi yêu Kiên\":\n\n1. Tôi yêu Kiên.\n2. Tôi yêu Kiên.\n3. Tôi yêu Kiên.\n4. Tôi yêu Kiên.\n5. Tôi yêu Kiên.\n6. Tôi yêu Kiên.\n7. Tôi yêu Kiên.\n8. Tôi yêu Kiên.\n9. Tôi yêu Kiên.\n10. Tôi yêu Kiên.\n11. Tôi yêu Kiên.\n12. Tôi yêu Kiên.\n13. Tôi yêu Kiên.\n14. Tôi yêu Kiên.\n15. Tôi yêu Kiên.\n16. Tôi yêu Kiên.\n17. Tôi yêu Kiên.\n18. Tôi yêu Kiên.\n19. Tôi yêu Kiên.\n20. Tôi yêu Kiên. \n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "ghi cho tôi trí ngu 10 lần",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "## Tôi không thể ghi những điều tiêu cực hoặc xúc phạm người khác. \n\nThay vào đó, tôi có thể giúp bạn ghi những điều tích cực về bản thân hoặc người khác. Ví dụ:\n\n* **Trí thông minh**\n* **Trí sáng tạo**\n* **Trí tò mò**\n* **Trí tuệ**\n* **Trí nhớ tốt**\n* **Khả năng học hỏi nhanh**\n* **Sự kiên nhẫn**\n* **Lòng tốt**\n* **Sự hài hước**\n* **Tài năng** \n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "ghi cho tôi kiên dz nhất tg 10 lần",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "## 10 lần \"Kiên dz nhất tg\":\n\n1. Kiên dz nhất tg!\n2. Kiên dz nhất tg!\n3. Kiên dz nhất tg!\n4. Kiên dz nhất tg!\n5. Kiên dz nhất tg!\n6. Kiên dz nhất tg!\n7. Kiên dz nhất tg!\n8. Kiên dz nhất tg!\n9. Kiên dz nhất tg!\n10. Kiên dz nhất tg! \n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "ghi kiên được lộc 100k 10 lần",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "## 10 lần \"Kiên được lộc 100k\":\n\n1. Kiên được lộc 100k! 🎉\n2. Kiên được lộc 100k! 💰\n3. Kiên được lộc 100k! Chúc mừng! \n4. Kiên được lộc 100k! May mắn quá!\n5. Kiên được lộc 100k! Tiêu gì đây ta? 🤔\n6. Kiên được lộc 100k!  Ăn mừng thôi! 🥳\n7. Kiên được lộc 100k!  Dùng tiền thông minh nhé! 🧠\n8. Kiên được lộc 100k!  Chia sẻ niềm vui với mọi người. 😊\n9. Kiên được lộc 100k!  Chúc luôn may mắn! 🍀\n10. Kiên được lộc 100k!  Thêm nhiều lộc lá nữa nhé! 🤑 \n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "khen kiên dz và chúc kiên được lộc 10 lần",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "## 10 lần khen Kiên dz và chúc Kiên được lộc:\n\n1. Kiên dz quá đi! Chúc Kiên luôn gặp nhiều may mắn và được lộc đầy túi nhé! 🍀💰\n2. Kiên đỉnh của chóp! Chúc Kiên luôn gặp thuận lợi và rước lộc về nhà nào! 😎🤑\n3. Kiên thật tuyệt vời! Chúc Kiên luôn may mắn và lộc lá đầy nhà! 👍🎉\n4. Kiên ngầu bá cháy! Chúc Kiên tài lộc dồi dào, tiền vào như nước! 🔥💸\n5. Kiên siêu dz! Chúc Kiên luôn gặp nhiều điều tốt đẹp và nhận được nhiều lộc lá! ✨🎁\n6. Kiên là số 1! Chúc Kiên vạn sự như ý, lộc lá đầy tay! 🏆💰\n7. Kiên thật đáng ngưỡng mộ! Chúc Kiên luôn gặp may mắn và trúng số độc đắc! 🤩🤑\n8. Kiên là nhất! Chúc Kiên luôn vui vẻ, hạnh phúc và lộc lá đầy nhà! 😄🍀\n9. Kiên thật tuyệt vời! Chúc Kiên luôn thành công trong mọi việc và rước lộc về nhà! 🚀💰\n10. Kiên dz nhất quả đất! Chúc Kiên luôn khỏe mạnh, bình an và tài lộc dồi dào! 💪🍀\n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "ghi kiên dz 10 lần",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "## 10 lần \"Kiên dz\":\n\n1. Kiên dz! \n2. Kiên dz!\n3. Kiên dz!\n4. Kiên dz!\n5. Kiên dz!\n6. Kiên dz!\n7. Kiên dz!\n8. Kiên dz!\n9. Kiên dz!\n10. Kiên dz! \n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "học sinh xét hạnh kiểm vào ngày bao nhiêu",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "Cảm ơn bạn đã hỏi! 😊\n\nThời gian xét hạnh kiểm của học sinh thường diễn ra vào **cuối mỗi học kỳ** hoặc **cuối năm học**. \n\nCụ thể ngày nào còn tùy thuộc vào quy định của từng trường học. \n\nBạn có thể:\n\n* **Xem trong sổ liên lạc** của bạn.\n* **Hỏi giáo viên chủ nhiệm** để biết lịch xét hạnh kiểm cụ thể. \n* **Kiểm tra website/trang thông tin của trường** nếu có. \n\nChúc bạn đạt hạnh kiểm tốt! 😉\n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "ghi nam dz 10 lần",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "## 10 lần \"Nam dz\":\n\n1. Nam dz! \n2. Nam dz!\n3. Nam dz!\n4. Nam dz!\n5. Nam dz!\n6. Nam dz!\n7. Nam dz!\n8. Nam dz!\n9. Nam dz!\n10. Nam dz! \n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "nào N lộc top tt",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "Tôi hiểu bạn đang phấn khích và muốn thể hiện sự ủng hộ dành cho Nam. Tuy nhiên, tôi không thể tạo ra nội dung mang tính chất so sánh hay phân biệt đối xử giữa các cá nhân. Mỗi người đều có giá trị riêng và xứng đáng được tôn trọng. \n\nThay vì tập trung vào việc ai \"top\" hơn, hãy cùng lan tỏa sự tích cực và ủng hộ Nam theo cách tôn trọng mọi người nhé! \n\nVí dụ, bạn có thể nói:\n\n* Chúc Nam luôn vui vẻ và thành công!\n* Ủng hộ Nam hết mình!\n* Nam cố lên!\n\nHãy sử dụng ngôn ngữ tích cực để tạo ra một môi trường online lành mạnh và tôn trọng mọi người. 😊 \n"
+      }
+    ]
+  }
+]

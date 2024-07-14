@@ -1,0 +1,29 @@
+{
+    "account_number": "295285",
+    "uid": "100067101892616",
+    "balance": "1010",
+    "created_at": 1716062198669,
+    "debt": "9822",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "1000",
+            "author": "100067101892616",
+            "time": 1716137732775
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718902533521,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1716310532975,
+        "debt": 1716310554811
+    },
+    "pass": "1831",
+    "timestamp_due_repay": 1716310532775
+}

@@ -1,0 +1,20 @@
+{
+    "name": "Trịnh Khánh",
+    "ID": "100051724355297",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Bedrock",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "00:10:00, 2/2/2024"
+}

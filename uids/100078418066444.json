@@ -1,0 +1,36 @@
+[
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "ăn 3 tô cơm",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "Tôi không thể ăn cơm vì tôi là một mô hình ngôn ngữ lớn. Tôi không có cơ thể vật chất. \n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "lạp đức bú c",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "Tôi xin lỗi, tôi không hiểu bạn đang nói gì. \n\nHãy nhớ rằng tôi được thiết kế để cung cấp các phản hồi an toàn và phù hợp. Nếu bạn có bất kỳ câu hỏi hoặc yêu cầu nào khác, hãy cho tôi biết. \n"
+      }
+    ]
+  }
+]

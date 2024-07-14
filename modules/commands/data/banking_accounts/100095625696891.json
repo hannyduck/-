@@ -1,0 +1,83 @@
+{
+    "account_number": "284572",
+    "uid": "100095625696891",
+    "balance": "0",
+    "created_at": 1715371180697,
+    "debt": "104012620",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000",
+            "author": "100095625696891",
+            "time": 1715371208548
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000",
+            "author": "100095625696891",
+            "time": 1715371358571
+        },
+        {
+            "type": "borrow",
+            "amount": "10000",
+            "author": "100095625696891",
+            "time": 1715371529976
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000",
+            "author": "100095625696891",
+            "time": 1715371612008
+        },
+        {
+            "type": "send",
+            "amount": "100000",
+            "author": "100095625696891",
+            "time": 1715372485315
+        },
+        {
+            "type": "repay",
+            "amount": "10000",
+            "author": "100095625696891",
+            "time": 1715372496922
+        },
+        {
+            "type": "repay",
+            "amount": "10000",
+            "author": "100095625696891",
+            "time": 1715372505069
+        },
+        {
+            "type": "withdraw",
+            "amount": "80000",
+            "author": "100095625696891",
+            "time": 1715372569552
+        },
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100095625696891",
+            "time": 1715372634771
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100095625696891",
+            "time": 1715372649375
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718137435350,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715457609025,
+        "debt": 1715547634127
+    },
+    "pass": "Huyhoang",
+    "timestamp_due_repay": 1715545434771
+}

@@ -1,0 +1,35 @@
+{
+    "account_number": "782208",
+    "uid": "100084125581937",
+    "balance": "0",
+    "created_at": 1715341501839,
+    "debt": "99059639",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100084125581937",
+            "time": 1715341518015
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100084125581937",
+            "time": 1715341544721
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718106318171,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715427918474,
+        "debt": 1715514343664
+    },
+    "pass": "9055",
+    "timestamp_due_repay": 1715514318015
+}

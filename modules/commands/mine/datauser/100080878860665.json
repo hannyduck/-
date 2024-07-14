@@ -1,0 +1,37 @@
+{
+  "name": "Diễm Phan 🫧",
+  "ID": "100080878860665",
+  "mainROD": "Cúp đá",
+  "GPS": {
+    "locate": "Nether And The End",
+    "area": "World Edge – The Void"
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "Cúp gỗ",
+      "price": 400,
+      "durability": 0,
+      "countdown": 10,
+      "countdownData": 1705653762660,
+      "image": "https://i.imgur.com/IODc9Jo.png"
+    },
+    {
+      "name": "Cúp đá",
+      "price": 1500,
+      "durability": 30,
+      "countdown": 9,
+      "countdownData": 1709942247978,
+      "image": "https://i.imgur.com/XHTNRGF.png"
+    },
+    {
+      "name": "Cúp sắt",
+      "price": 4000,
+      "durability": 100,
+      "countdown": 8,
+      "countdownData": null,
+      "image": "https://i.imgur.com/Rrlr2ZB.png"
+    }
+  ],
+  "timeRegister": "18:21:02, 13/1/2024"
+}

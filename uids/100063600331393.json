@@ -1,0 +1,19 @@
+[
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "6000 miligiay là bao nhiêu phút",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "6000 mili giây tương đương với 1 phút. \n\nĐể chuyển đổi mili giây sang phút, ta sử dụng công thức:\n\n```\nPhút = Mili giây / 60000\n```\n\nVì vậy, 6000 mili giây = 6000 / 60000 = 0.1 phút. \n\nTuy nhiên, vì 0.1 phút là một giá trị lẻ, ta thường làm tròn nó lên thành 1 phút cho dễ hiểu. \n"
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+{
+    "account_number": "774755",
+    "uid": "61550294464730",
+    "balance": "0",
+    "created_at": 1715358606048,
+    "debt": "99059639",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "61550294464730",
+            "time": 1715358623298
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "61550294464730",
+            "time": 1715358634389
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718123423918,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715445023683,
+        "debt": 1715531447405
+    },
+    "pass": "0334",
+    "timestamp_due_repay": 1715531423298
+}

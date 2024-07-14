@@ -1,0 +1,29 @@
+{
+  "name": "Hoang Tien Dat",
+  "ID": "100072926675810",
+  "mainROD": "Cúp đá",
+  "GPS": {
+    "locate": "Nether And The End",
+    "area": "Pháo Đài Heo"
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "Cúp gỗ",
+      "price": 400,
+      "durability": 0,
+      "countdown": 10,
+      "countdownData": 1698927098758,
+      "image": "https://i.imgur.com/IODc9Jo.png"
+    },
+    {
+      "name": "Cúp đá",
+      "price": 1500,
+      "durability": 20,
+      "countdown": 9,
+      "countdownData": 1698928144783,
+      "image": "https://i.imgur.com/XHTNRGF.png"
+    }
+  ],
+  "timeRegister": "19:06:44, 2/11/2023"
+}

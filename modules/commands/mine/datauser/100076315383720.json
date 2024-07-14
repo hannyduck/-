@@ -1,0 +1,20 @@
+{
+    "name": "Pé Ếch Mít Ướt",
+    "ID": "100076315383720",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Bedrock",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "19:10:13, 25/1/2024"
+}

@@ -1,0 +1,35 @@
+{
+    "account_number": "385586",
+    "uid": "100078963411125",
+    "balance": "0",
+    "created_at": 1715341105630,
+    "debt": "99059639",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100078963411125",
+            "time": 1715341135812
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100078963411125",
+            "time": 1715341172211
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718105936118,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715427536584,
+        "debt": 1715513961709
+    },
+    "pass": "",
+    "timestamp_due_repay": 1715513935812
+}

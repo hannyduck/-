@@ -1,0 +1,71 @@
+{
+    "account_number": "844595",
+    "uid": "100027666233195",
+    "balance": "0",
+    "created_at": 1715377815518,
+    "debt": "10896482",
+    "count_debt": 2,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "1000000",
+            "author": "100027666233195",
+            "time": 1715377983206
+        },
+        {
+            "type": "withdraw",
+            "amount": "1000000",
+            "author": "100027666233195",
+            "time": 1715378002604
+        },
+        {
+            "type": "send",
+            "amount": "500000",
+            "author": "100027666233195",
+            "time": 1715378164768
+        },
+        {
+            "type": "withdraw",
+            "amount": "500000",
+            "author": "100027666233195",
+            "time": 1715378170635
+        },
+        {
+            "type": "borrow",
+            "amount": "100000",
+            "author": "100027666233195",
+            "time": 1715378185504
+        },
+        {
+            "type": "withdraw",
+            "amount": "100000",
+            "author": "100027666233195",
+            "time": 1715378191305
+        },
+        {
+            "type": "send",
+            "amount": "900000",
+            "author": "100027666233195",
+            "time": 1715378248465
+        },
+        {
+            "type": "withdraw",
+            "amount": "900000",
+            "author": "100027666233195",
+            "time": 1715378271072
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718142783586,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715464383870,
+        "debt": 1715550808793
+    },
+    "pass": "HoangAnhYeuSu",
+    "timestamp_due_repay": 1715550783206
+}

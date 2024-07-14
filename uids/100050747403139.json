@@ -1,0 +1,19 @@
+[
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "1 pi là bao nhiêu tiền",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "Tôi xin lỗi, tôi không hiểu bạn đang hỏi gì. Bạn có thể diễn đạt lại câu hỏi không? \n"
+      }
+    ]
+  }
+]

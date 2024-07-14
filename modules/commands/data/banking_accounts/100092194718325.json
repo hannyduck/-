@@ -1,0 +1,35 @@
+{
+    "account_number": "099415",
+    "uid": "100092194718325",
+    "balance": "2020000",
+    "created_at": 1715555441711,
+    "debt": "19811869",
+    "count_debt": 2,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "1000000",
+            "author": "100092194718325",
+            "time": 1715555487429
+        },
+        {
+            "type": "borrow",
+            "amount": "1000000",
+            "author": "100092194718325",
+            "time": 1715555546119
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718320287717,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715728288211,
+        "debt": 1715728697575
+    },
+    "pass": "2008",
+    "timestamp_due_repay": 1715728287429
+}

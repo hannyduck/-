@@ -1,0 +1,38 @@
+{
+    "account_number": "719539",
+    "uid": "100067922884742",
+    "balance": "0",
+    "created_at": 1716726752099,
+    "debt": "30715221",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100067922884742",
+            "time": 1716726795215
+        },
+        {
+            "type": "withdraw",
+            "amount": "1000000",
+            "author": "100067922884742",
+            "time": 1716727760568
+        },
+        {
+            "type": "withdraw",
+            "amount": "9000000",
+            "author": "100067922884742",
+            "time": 1716727776703
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1716813195852,
+        "debt": 1716813205787
+    },
+    "pass": "4470",
+    "timestamp_due_repay": 1716899595215
+}

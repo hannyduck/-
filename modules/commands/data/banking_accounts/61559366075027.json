@@ -1,0 +1,35 @@
+{
+    "account_number": "908870",
+    "uid": "61559366075027",
+    "balance": "0",
+    "created_at": 1715300837528,
+    "debt": "99059639",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "61559366075027",
+            "time": 1715300845259
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "61559366075027",
+            "time": 1715300877964
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718065645672,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715387245839,
+        "debt": 1715473671792
+    },
+    "pass": "9227",
+    "timestamp_due_repay": 1715473645259
+}

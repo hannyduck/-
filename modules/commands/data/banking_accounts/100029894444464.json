@@ -1,0 +1,41 @@
+{
+    "account_number": "084202",
+    "uid": "100029894444464",
+    "balance": "-500000",
+    "created_at": 1715500345098,
+    "debt": "94342514",
+    "count_debt": 2,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100029894444464",
+            "time": 1715500366739
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100029894444464",
+            "time": 1715500441195
+        },
+        {
+            "type": "borrow",
+            "amount": "-500000",
+            "author": "100029894444464",
+            "time": 1715505821460
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718265167332,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715586767361,
+        "debt": 1715674690328
+    },
+    "pass": "5365",
+    "timestamp_due_repay": 1715673166739
+}

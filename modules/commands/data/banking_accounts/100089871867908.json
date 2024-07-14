@@ -1,0 +1,41 @@
+{
+    "account_number": "193917",
+    "uid": "100089871867908",
+    "balance": "-33219398",
+    "created_at": 1715336901215,
+    "debt": "22920173",
+    "count_debt": 2,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100089871867908",
+            "time": 1715336913020
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100089871867908",
+            "time": 1715336939687
+        },
+        {
+            "type": "borrow",
+            "amount": "-33219398",
+            "author": "100089871867908",
+            "time": 1715445495743
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718101713937,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715423313325,
+        "debt": 1715509825954
+    },
+    "pass": "0805",
+    "timestamp_due_repay": 1715509713020
+}

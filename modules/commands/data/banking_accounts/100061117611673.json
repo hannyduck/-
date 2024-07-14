@@ -1,0 +1,35 @@
+{
+    "account_number": "688318",
+    "uid": "100061117611673",
+    "balance": "-5269490",
+    "created_at": 1715614231702,
+    "debt": "39201269",
+    "count_debt": 2,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100061117611673",
+            "time": 1715614254004
+        },
+        {
+            "type": "borrow",
+            "amount": "-15269490",
+            "author": "100061117611673",
+            "time": 1715686119843
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718379054148,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715700654381,
+        "debt": 1715787076588
+    },
+    "pass": "7107",
+    "timestamp_due_repay": 1715787054004
+}

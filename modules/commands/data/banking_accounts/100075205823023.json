@@ -1,0 +1,35 @@
+{
+    "account_number": "502010",
+    "uid": "100075205823023",
+    "balance": "0",
+    "created_at": 1716235807873,
+    "debt": "99059639",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100075205823023",
+            "time": 1716235861869
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100075205823023",
+            "time": 1716235868323
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1719000661933,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1716322262533,
+        "debt": 1716408688272
+    },
+    "pass": "9722",
+    "timestamp_due_repay": 1716408661869
+}

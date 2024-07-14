@@ -1,0 +1,29 @@
+{
+  "name": "Hồ Quý",
+  "ID": "100034177008575",
+  "mainROD": "Cúp Netherite",
+  "GPS": {
+    "locate": "Nether And The End",
+    "area": "World Edge – The Void"
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "Cúp đá",
+      "price": 1500,
+      "durability": 0,
+      "countdown": 9,
+      "countdownData": 1706618391474,
+      "image": "https://i.imgur.com/XHTNRGF.png"
+    },
+    {
+      "name": "Cúp Netherite",
+      "price": 29000,
+      "durability": 590,
+      "countdown": 3,
+      "countdownData": 1707133384250,
+      "image": "https://i.imgur.com/k1skyAb.png"
+    }
+  ],
+  "timeRegister": "19:34:22, 12/9/2023"
+}

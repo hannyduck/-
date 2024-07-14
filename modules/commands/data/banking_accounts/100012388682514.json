@@ -1,0 +1,29 @@
+{
+    "account_number": "587986",
+    "uid": "100012388682514",
+    "balance": "10100000",
+    "created_at": 1715548463205,
+    "debt": "99059639",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100012388682514",
+            "time": 1715548576410
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718313377068,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715721377037,
+        "debt": 1715721497076
+    },
+    "pass": "Hahahaha09099887262",
+    "timestamp_due_repay": 1715721376410
+}

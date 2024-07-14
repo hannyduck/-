@@ -1,0 +1,37 @@
+{
+  "name": "Thành Trung",
+  "ID": "100039306663139",
+  "mainROD": "Cúp gỗ",
+  "GPS": {
+    "locate": "Nether And The End",
+    "area": "Pháo Đài Heo"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Bedrock",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Đá Phát Quang",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/hZ6cxrU.jpg"
+    }
+  ],
+  "item": [
+    {
+      "name": "Cúp gỗ",
+      "price": 400,
+      "durability": 0,
+      "countdown": 10,
+      "countdownData": 1705330040467,
+      "image": "https://i.imgur.com/IODc9Jo.png"
+    }
+  ],
+  "timeRegister": "21:44:34, 15/1/2024"
+}

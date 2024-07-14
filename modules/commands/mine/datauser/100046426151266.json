@@ -1,0 +1,53 @@
+{
+  "name": "Du Quốc An",
+  "ID": "100046426151266",
+  "mainROD": "Cúp Netherite",
+  "GPS": {
+    "locate": "Nether And The End",
+    "area": "Rừng máu"
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "Cúp gỗ",
+      "price": 400,
+      "durability": 0,
+      "countdown": 10,
+      "countdownData": 1705321556013,
+      "image": "https://i.imgur.com/IODc9Jo.png"
+    },
+    {
+      "name": "Cúp đá",
+      "price": 1500,
+      "durability": 0,
+      "countdown": 9,
+      "countdownData": 1705330164856,
+      "image": "https://i.imgur.com/XHTNRGF.png"
+    },
+    {
+      "name": "Cúp sắt",
+      "price": 4000,
+      "durability": 0,
+      "countdown": 8,
+      "countdownData": 1705331914136,
+      "image": "https://i.imgur.com/Rrlr2ZB.png"
+    },
+    {
+      "name": "Cúp kim cương",
+      "price": 17500,
+      "durability": 210,
+      "countdown": 3,
+      "countdownData": 1705469128246,
+      "image": "https://i.imgur.com/qA8hott.png"
+    },
+    {
+      "name": "Cúp Netherite",
+      "price": 29000,
+      "durability": 280,
+      "countdown": 3,
+      "countdownData": 1713540527162,
+      "image": "https://i.imgur.com/k1skyAb.png"
+    }
+  ],
+  "timeRegister": "18:51:13, 15/1/2024"
+}

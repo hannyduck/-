@@ -1,0 +1,47 @@
+{
+    "account_number": "582356",
+    "uid": "100093101036267",
+    "balance": "0",
+    "created_at": 1715529626311,
+    "debt": "47548599",
+    "count_debt": 2,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "3800000",
+            "author": "100093101036267",
+            "time": 1715529657419
+        },
+        {
+            "type": "withdraw",
+            "amount": "3800000",
+            "author": "100093101036267",
+            "time": 1715529701847
+        },
+        {
+            "type": "borrow",
+            "amount": "1000000",
+            "author": "100093101036267",
+            "time": 1715529840948
+        },
+        {
+            "type": "withdraw",
+            "amount": "1000000",
+            "author": "100093101036267",
+            "time": 1715529917314
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718294458034,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715616058074,
+        "debt": 1715703494202
+    },
+    "pass": "0385",
+    "timestamp_due_repay": 1715702457419
+}

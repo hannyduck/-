@@ -1,0 +1,41 @@
+{
+    "account_number": "973590",
+    "uid": "100074465381035",
+    "balance": "-4071002",
+    "created_at": 1715337137505,
+    "debt": "70399839",
+    "count_debt": 2,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100074465381035",
+            "time": 1715337150884
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100074465381035",
+            "time": 1715337170843
+        },
+        {
+            "type": "borrow",
+            "amount": "-4071002",
+            "author": "100074465381035",
+            "time": 1715364945650
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718101951208,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715423551438,
+        "debt": 1715509976487
+    },
+    "pass": "3287",
+    "timestamp_due_repay": 1715509950884
+}

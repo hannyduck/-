@@ -1,0 +1,35 @@
+{
+    "account_number": "746944",
+    "uid": "100056709686770",
+    "balance": "0",
+    "created_at": 1715449873751,
+    "debt": "99059639",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100056709686770",
+            "time": 1715449938290
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100056709686770",
+            "time": 1715449962662
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718214738356,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715536339176,
+        "debt": 1715624283003
+    },
+    "pass": "0257",
+    "timestamp_due_repay": 1715622738290
+}

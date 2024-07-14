@@ -1,0 +1,29 @@
+{
+    "account_number": "851611",
+    "uid": "100040140061642",
+    "balance": "10100000",
+    "created_at": 1715536147144,
+    "debt": "99059639",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100040140061642",
+            "time": 1715536171111
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718300971945,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715708971973,
+        "debt": 1715710694977
+    },
+    "pass": "123456789",
+    "timestamp_due_repay": 1715708971111
+}

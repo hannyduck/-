@@ -1,0 +1,453 @@
+{
+  "name": "Nguyễn Trường",
+  "ID": "100053328848588",
+  "mainROD": "Cúp Netherite",
+  "GPS": {
+    "locate": "Nether And The End",
+    "area": "Pháo Đài Heo"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Bedrock",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 3,
+      "name": "Quặng Sắt",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/FzmWr8X.png"
+    },
+    {
+      "ID": 4,
+      "name": "Quặng Sắt",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/FzmWr8X.png"
+    },
+    {
+      "ID": 5,
+      "name": "Quặng Sắt",
+      "category": "Epic",
+      "size": 170,
+      "sell": 3480,
+      "image": "https://i.imgur.com/FzmWr8X.png"
+    },
+    {
+      "ID": 17,
+      "name": "Đất",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/PwM03Lx.png"
+    },
+    {
+      "ID": 18,
+      "name": "Obsidian",
+      "category": "Epic",
+      "size": 450,
+      "sell": 980,
+      "image": "https://i.imgur.com/pHRTy2l.png"
+    },
+    {
+      "ID": 20,
+      "name": "Đá Phát Quang",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/hZ6cxrU.jpg"
+    },
+    {
+      "ID": 21,
+      "name": "Gỗ Thẫm",
+      "category": "Common",
+      "size": 34,
+      "sell": 200,
+      "image": ""
+    },
+    {
+      "ID": 23,
+      "name": "Nether Quartz Ore",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/2lk1JeN.png"
+    },
+    {
+      "ID": 26,
+      "name": "Đất Nether",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/gLYYk05.png"
+    },
+    {
+      "ID": 28,
+      "name": "Quặng Hạt Vàng",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/zehWGoZ.png"
+    },
+    {
+      "ID": 29,
+      "name": "Nether Quartz Ore",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/2lk1JeN.png"
+    },
+    {
+      "ID": 30,
+      "name": "Nether Quartz Ore",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/2lk1JeN.png"
+    },
+    {
+      "ID": 31,
+      "name": "Nether Quartz Ore",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/2lk1JeN.png"
+    },
+    {
+      "ID": 32,
+      "name": "Đất Nether",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/gLYYk05.png"
+    },
+    {
+      "ID": 33,
+      "name": "Obsidian",
+      "category": "Epic",
+      "size": 450,
+      "sell": 980,
+      "image": "https://i.imgur.com/pHRTy2l.png"
+    },
+    {
+      "ID": 34,
+      "name": "Nether Quartz Ore",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/2lk1JeN.png"
+    },
+    {
+      "ID": 36,
+      "name": "Nether Quartz Ore",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/2lk1JeN.png"
+    },
+    {
+      "ID": 37,
+      "name": "Obsidian",
+      "category": "Epic",
+      "size": 450,
+      "sell": 980,
+      "image": "https://i.imgur.com/pHRTy2l.png"
+    },
+    {
+      "ID": 38,
+      "name": "Obsidian",
+      "category": "Epic",
+      "size": 450,
+      "sell": 980,
+      "image": "https://i.imgur.com/pHRTy2l.png"
+    },
+    {
+      "ID": 39,
+      "name": "Gỗ Thẫm",
+      "category": "Common",
+      "size": 34,
+      "sell": 200,
+      "image": ""
+    },
+    {
+      "ID": 40,
+      "name": "Gỗ Thẫm",
+      "category": "Common",
+      "size": 34,
+      "sell": 200,
+      "image": ""
+    },
+    {
+      "ID": 41,
+      "name": "Cát Linh Hồn",
+      "category": "Uncommon",
+      "size": 32,
+      "sell": 410,
+      "image": "https://i.imgur.com/kF12cBQ.png"
+    },
+    {
+      "ID": 42,
+      "name": "Đá Phát Quang",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/hZ6cxrU.jpg"
+    },
+    {
+      "ID": 43,
+      "name": "Obsidian",
+      "category": "Epic",
+      "size": 450,
+      "sell": 980,
+      "image": "https://i.imgur.com/pHRTy2l.png"
+    },
+    {
+      "ID": 44,
+      "name": "Đá Phát Quang",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/hZ6cxrU.jpg"
+    },
+    {
+      "ID": 45,
+      "name": "Gỗ Thẫm",
+      "category": "Common",
+      "size": 34,
+      "sell": 200,
+      "image": ""
+    },
+    {
+      "ID": 46,
+      "name": "Đất Nether",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/gLYYk05.png"
+    },
+    {
+      "ID": 48,
+      "name": "Obsidian",
+      "category": "Epic",
+      "size": 450,
+      "sell": 980,
+      "image": "https://i.imgur.com/pHRTy2l.png"
+    },
+    {
+      "ID": 50,
+      "name": "Quặng Hạt Vàng",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/zehWGoZ.png"
+    },
+    {
+      "ID": 52,
+      "name": "Gỗ Thẫm",
+      "category": "Common",
+      "size": 34,
+      "sell": 200,
+      "image": ""
+    },
+    {
+      "ID": 53,
+      "name": "Đất podzol",
+      "category": "Rare",
+      "size": 40,
+      "sell": 370,
+      "image": "https://i.imgur.com/wnXtrIt.jpg"
+    },
+    {
+      "ID": 54,
+      "name": "Đá",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/XKv8I3a.png"
+    },
+    {
+      "ID": 55,
+      "name": "Gỗ",
+      "category": "Uncommon",
+      "size": 20,
+      "sell": 400,
+      "image": "https://i.imgur.com/gu5UyYZ.png"
+    },
+    {
+      "ID": 56,
+      "name": "Đá Granite",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Sr32pdv.jpg"
+    },
+    {
+      "ID": 57,
+      "name": "Đất",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/PwM03Lx.png"
+    },
+    {
+      "ID": 58,
+      "name": "Ngọc lưu ly",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d9gedJU.png"
+    },
+    {
+      "ID": 59,
+      "name": "Đá Granite",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/Sr32pdv.jpg"
+    },
+    {
+      "ID": 60,
+      "name": "Viên Kim Cương",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/yRwGNQf.png"
+    },
+    {
+      "ID": 61,
+      "name": "Gỗ",
+      "category": "Uncommon",
+      "size": 20,
+      "sell": 400,
+      "image": "https://i.imgur.com/gu5UyYZ.png"
+    },
+    {
+      "ID": 62,
+      "name": "Đất podzol",
+      "category": "Rare",
+      "size": 40,
+      "sell": 370,
+      "image": "https://i.imgur.com/wnXtrIt.jpg"
+    },
+    {
+      "ID": 63,
+      "name": "Đất podzol",
+      "category": "Rare",
+      "size": 40,
+      "sell": 370,
+      "image": "https://i.imgur.com/wnXtrIt.jpg"
+    },
+    {
+      "ID": 64,
+      "name": "Đất podzol",
+      "category": "Rare",
+      "size": 40,
+      "sell": 370,
+      "image": "https://i.imgur.com/wnXtrIt.jpg"
+    },
+    {
+      "ID": 65,
+      "name": "Ngọc lưu ly",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d9gedJU.png"
+    },
+    {
+      "ID": 66,
+      "name": "Gỗ",
+      "category": "Uncommon",
+      "size": 20,
+      "sell": 400,
+      "image": "https://i.imgur.com/gu5UyYZ.png"
+    },
+    {
+      "ID": 67,
+      "name": "Viên Kim Cương",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/yRwGNQf.png"
+    },
+    {
+      "ID": 68,
+      "name": "Đất podzol",
+      "category": "Rare",
+      "size": 40,
+      "sell": 370,
+      "image": "https://i.imgur.com/wnXtrIt.jpg"
+    },
+    {
+      "ID": 69,
+      "name": "Ngọc lưu ly",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d9gedJU.png"
+    },
+    {
+      "ID": 70,
+      "name": "Phiến đá",
+      "category": "Uncommon",
+      "size": 28,
+      "sell": 350,
+      "image": "https://i.imgur.com/vMYKIGG.png"
+    },
+    {
+      "ID": 71,
+      "name": "Đất podzol",
+      "category": "Rare",
+      "size": 40,
+      "sell": 370,
+      "image": "https://i.imgur.com/wnXtrIt.jpg"
+    },
+    {
+      "ID": 72,
+      "name": "Đá Phát Quang",
+      "category": "Common",
+      "size": 30,
+      "sell": 200,
+      "image": "https://i.imgur.com/hZ6cxrU.jpg"
+    }
+  ],
+  "item": [
+    {
+      "name": "Cúp gỗ",
+      "price": 400,
+      "durability": 0,
+      "countdown": 10,
+      "countdownData": 1706179112740,
+      "image": "https://i.imgur.com/IODc9Jo.png"
+    },
+    {
+      "name": "Cúp sắt",
+      "price": 4000,
+      "durability": 0,
+      "countdown": 8,
+      "countdownData": 1706183218263,
+      "image": "https://i.imgur.com/Rrlr2ZB.png"
+    },
+    {
+      "name": "Cúp vàng",
+      "price": 8000,
+      "durability": 140,
+      "countdown": 7,
+      "countdownData": 1706191074371,
+      "image": "https://i.imgur.com/yPedwZX.png"
+    },
+    {
+      "name": "Cúp Netherite",
+      "price": 29000,
+      "durability": 630,
+      "countdown": 3,
+      "countdownData": 1706191719567,
+      "image": "https://i.imgur.com/k1skyAb.png"
+    }
+  ],
+  "timeRegister": "18:10:08, 19/1/2024"
+}

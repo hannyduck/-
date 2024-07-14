@@ -1,0 +1,35 @@
+{
+    "account_number": "915378",
+    "uid": "61558537637356",
+    "balance": "0",
+    "created_at": 1716411039658,
+    "debt": "70399839",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "61558537637356",
+            "time": 1716411053204
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "61558537637356",
+            "time": 1716411059934
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1719175853447,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1716497454010,
+        "debt": 1716586769309
+    },
+    "pass": "7454",
+    "timestamp_due_repay": 1716583853204
+}

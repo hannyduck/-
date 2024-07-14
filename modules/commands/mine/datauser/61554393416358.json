@@ -1,0 +1,37 @@
+{
+  "name": "Zalius Present",
+  "ID": "61554393416358",
+  "mainROD": "Cúp gỗ",
+  "GPS": {
+    "locate": "Nether And The End",
+    "area": "Rừng Ác Mộng"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Bedrock",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Nether Quartz Ore",
+      "category": "Uncommon",
+      "size": 120,
+      "sell": 990,
+      "image": "https://i.imgur.com/2lk1JeN.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Cúp gỗ",
+      "price": 400,
+      "durability": 10,
+      "countdown": 10,
+      "countdownData": 1712160353899,
+      "image": "https://i.imgur.com/IODc9Jo.png"
+    }
+  ],
+  "timeRegister": "23:00:53, 3/4/2024"
+}

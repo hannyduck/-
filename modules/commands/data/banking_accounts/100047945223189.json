@@ -1,0 +1,59 @@
+{
+    "account_number": "717233",
+    "uid": "100047945223189",
+    "balance": "0",
+    "created_at": 1715377792237,
+    "debt": "104012620",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100047945223189",
+            "time": 1715377821653
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100047945223189",
+            "time": 1715377849372
+        },
+        {
+            "type": "send",
+            "amount": "10000000",
+            "author": "100047945223189",
+            "time": 1715378262116
+        },
+        {
+            "type": "repay",
+            "amount": "10000000",
+            "author": "100047945223189",
+            "time": 1715378271950
+        },
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100047945223189",
+            "time": 1715379924547
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100047945223189",
+            "time": 1715379942911
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718144725274,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715464222541,
+        "debt": 1715554247264
+    },
+    "pass": "3993",
+    "timestamp_due_repay": 1715552724547
+}

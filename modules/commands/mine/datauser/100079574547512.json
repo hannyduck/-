@@ -1,0 +1,37 @@
+{
+  "name": "Kim Ny",
+  "ID": "100079574547512",
+  "mainROD": "Cúp Netherite",
+  "GPS": {
+    "locate": "Nether And The End",
+    "area": "Tàn Tích Nether Cổ"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Bedrock",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 10,
+      "name": "Đất Nether",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/gLYYk05.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Cúp Netherite",
+      "price": 29000,
+      "durability": 790,
+      "countdown": 3,
+      "countdownData": 1706618682607,
+      "image": "https://i.imgur.com/k1skyAb.png"
+    }
+  ],
+  "timeRegister": "19:38:16, 30/1/2024"
+}

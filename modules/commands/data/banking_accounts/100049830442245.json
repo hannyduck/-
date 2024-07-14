@@ -1,0 +1,35 @@
+{
+    "account_number": "988645",
+    "uid": "100049830442245",
+    "balance": "0",
+    "created_at": 1715343749602,
+    "debt": "99059639",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100049830442245",
+            "time": 1715343761903
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100049830442245",
+            "time": 1715369135900
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718108562007,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715430162560,
+        "debt": 1715516584994
+    },
+    "pass": "2561",
+    "timestamp_due_repay": 1715516561903
+}

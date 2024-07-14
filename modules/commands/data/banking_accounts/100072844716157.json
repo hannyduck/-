@@ -1,0 +1,35 @@
+{
+    "account_number": "837028",
+    "uid": "100072844716157",
+    "balance": "1010505",
+    "created_at": 1715519215843,
+    "debt": "9910852",
+    "count_debt": 2,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "500",
+            "author": "100072844716157",
+            "time": 1716137562046
+        },
+        {
+            "type": "borrow",
+            "amount": "1000000",
+            "author": "100072844716157",
+            "time": 1716137614265
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718902362444,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1716310362503,
+        "debt": 1716310382451
+    },
+    "pass": "ok",
+    "timestamp_due_repay": 1716310362046
+}

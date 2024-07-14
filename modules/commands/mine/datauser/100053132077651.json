@@ -1,0 +1,77 @@
+{
+  "name": "Tuấn An",
+  "ID": "100053132077651",
+  "mainROD": "Cúp đá",
+  "GPS": {
+    "locate": "The Earth",
+    "area": "Hang Động"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Bedrock",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Ngọc lưu ly",
+      "category": "Rare",
+      "size": 4700,
+      "sell": 1800,
+      "image": "https://i.imgur.com/d9gedJU.png"
+    },
+    {
+      "ID": 2,
+      "name": "Gạch Nether Thẫm",
+      "category": "Common",
+      "size": 32,
+      "sell": 200,
+      "image": "https://i.imgur.com/hmpZFNN.png"
+    },
+    {
+      "ID": 3,
+      "name": "Quặng Hạt Vàng",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/zehWGoZ.png"
+    },
+    {
+      "ID": 4,
+      "name": "Gạch Nether",
+      "category": "Common",
+      "size": 34,
+      "sell": 200,
+      "image": "https://i.imgur.com/Pzu9xiT.png"
+    },
+    {
+      "ID": 5,
+      "name": "Quặng Sắt",
+      "category": "Common",
+      "size": 28,
+      "sell": 180,
+      "image": "https://i.imgur.com/FzmWr8X.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Cúp gỗ",
+      "price": 400,
+      "durability": 0,
+      "countdown": 10,
+      "countdownData": 1705486092067,
+      "image": "https://i.imgur.com/IODc9Jo.png"
+    },
+    {
+      "name": "Cúp đá",
+      "price": 1500,
+      "durability": 10,
+      "countdown": 9,
+      "countdownData": 1705746434925,
+      "image": "https://i.imgur.com/XHTNRGF.png"
+    }
+  ],
+  "timeRegister": "21:44:49, 15/1/2024"
+}

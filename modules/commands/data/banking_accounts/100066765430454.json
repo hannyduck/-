@@ -1,0 +1,43 @@
+{
+    "account_number": "028847",
+    "uid": "100066765430454",
+    "balance": "5208934",
+    "created_at": 1715507122160,
+    "debt": "0",
+    "count_debt": 0,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100066765430454",
+            "time": 1715507165896
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100066765430454",
+            "time": 1715507185377
+        },
+        {
+            "type": "send",
+            "amount": "20000000",
+            "author": "100066765430454",
+            "time": 1715540001558
+        },
+        {
+            "type": "repay",
+            "amount": "15513279",
+            "author": "100066765430454",
+            "time": 1715540008922
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {},
+    "interest_period": {
+        "balance": 1716889812584,
+        "debt": 1715543171357
+    },
+    "pass": "Hung2005"
+}

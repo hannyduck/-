@@ -1,0 +1,35 @@
+{
+    "account_number": "040207",
+    "uid": "61556137388015",
+    "balance": "0",
+    "created_at": 1715337327202,
+    "debt": "99059639",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "61556137388015",
+            "time": 1715337340823
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "61556137388015",
+            "time": 1715337351010
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718102140865,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715423741451,
+        "debt": 1715510166175
+    },
+    "pass": "0904",
+    "timestamp_due_repay": 1715510140823
+}

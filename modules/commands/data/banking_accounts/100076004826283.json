@@ -1,0 +1,51 @@
+{
+    "account_number": "335125",
+    "uid": "100076004826283",
+    "balance": "0",
+    "created_at": 1715689444732,
+    "debt": "99059639",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100076004826283",
+            "time": 1715689488906
+        },
+        {
+            "type": "pay",
+            "amount": "600000",
+            "content": "Trả nợ",
+            "author": "100076004826283",
+            "time": 1715689762630,
+            "to": "040158"
+        },
+        {
+            "type": "pay",
+            "amount": "5000000",
+            "content": "Ko có",
+            "author": "100076004826283",
+            "time": 1715689815308,
+            "to": "040158"
+        },
+        {
+            "type": "withdraw",
+            "amount": "4400000",
+            "author": "100076004826283",
+            "time": 1715690110079
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718454289183,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715775889482,
+        "debt": 1715862313581
+    },
+    "pass": "6816",
+    "timestamp_due_repay": 1715862288906
+}

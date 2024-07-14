@@ -1,0 +1,20 @@
+{
+    "name": "Serphelia Venus",
+    "ID": "100055992610509",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Bedrock",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "20:59:17, 1/2/2024"
+}

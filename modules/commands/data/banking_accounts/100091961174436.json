@@ -1,0 +1,53 @@
+{
+    "account_number": "589582",
+    "uid": "100091961174436",
+    "balance": "0",
+    "created_at": 1715298166012,
+    "debt": "67047466",
+    "count_debt": 2,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100091961174436",
+            "time": 1715298206825
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100091961174436",
+            "time": 1715298404133
+        },
+        {
+            "type": "borrow",
+            "amount": "-4774552",
+            "author": "100091961174436",
+            "time": 1715329316432
+        },
+        {
+            "type": "send",
+            "amount": "5000000",
+            "author": "100091961174436",
+            "time": 1715329634279
+        },
+        {
+            "type": "withdraw",
+            "amount": "225448",
+            "author": "100091961174436",
+            "time": 1715329648630
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718063006900,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715384607715,
+        "debt": 1715471029840
+    },
+    "pass": "hoangvu131",
+    "timestamp_due_repay": 1715471006825
+}

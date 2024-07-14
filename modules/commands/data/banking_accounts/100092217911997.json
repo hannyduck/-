@@ -1,0 +1,35 @@
+{
+    "account_number": "895453",
+    "uid": "100092217911997",
+    "balance": "0",
+    "created_at": 1715365442795,
+    "debt": "99059639",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100092217911997",
+            "time": 1715365453709
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100092217911997",
+            "time": 1715365462501
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718130254330,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715451854641,
+        "debt": 1715538274421
+    },
+    "pass": "19999",
+    "timestamp_due_repay": 1715538253709
+}

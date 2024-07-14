@@ -1,0 +1,61 @@
+{
+    "account_number": "040158",
+    "uid": "61557228323101",
+    "balance": "0",
+    "created_at": 1715688546325,
+    "debt": "54482774",
+    "count_debt": 2,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "5000000",
+            "author": "61557228323101",
+            "time": 1715688579990
+        },
+        {
+            "type": "borrow",
+            "amount": "500000",
+            "author": "61557228323101",
+            "time": 1715688717215
+        },
+        {
+            "type": "withdraw",
+            "amount": "5500000",
+            "author": "61557228323101",
+            "time": 1715689121702
+        },
+        {
+            "type": "receive",
+            "amount": "600000",
+            "content": "Trả nợ",
+            "time": 1715689762630,
+            "from": "335125"
+        },
+        {
+            "type": "receive",
+            "amount": "5000000",
+            "content": "Ko có",
+            "time": 1715689815308,
+            "from": "335125"
+        },
+        {
+            "type": "withdraw",
+            "amount": "5600000",
+            "author": "61557228323101",
+            "time": 1715690294328
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718453380732,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715774980904,
+        "debt": 1715861405530
+    },
+    "pass": "3012",
+    "timestamp_due_repay": 1715861379990
+}

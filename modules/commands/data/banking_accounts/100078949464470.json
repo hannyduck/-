@@ -1,0 +1,35 @@
+{
+    "account_number": "558862",
+    "uid": "100078949464470",
+    "balance": "0",
+    "created_at": 1716073152454,
+    "debt": "99059639",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "100078949464470",
+            "time": 1716073203830
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "100078949464470",
+            "time": 1716073250458
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718838004212,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1716159604425,
+        "debt": 1716246028024
+    },
+    "pass": "3670",
+    "timestamp_due_repay": 1716246003830
+}

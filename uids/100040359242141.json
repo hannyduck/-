@@ -1,0 +1,19 @@
+[
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "Please provide me with more context or information about what you'd like me to do. For example:\n\n* **What topic are you interested in?** (e.g., history, science, technology, literature)\n* **What kind of task do you have in mind?** (e.g., write a story, answer a question, translate something, summarize an article)\n* **Do you have any specific keywords or phrases?** \n\nThe more information you give me, the better I can understand your request and provide a helpful response. \n"
+      }
+    ]
+  }
+]

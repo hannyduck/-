@@ -1,0 +1,35 @@
+{
+    "account_number": "334123",
+    "uid": "61555335136303",
+    "balance": "0",
+    "created_at": 1715601803705,
+    "debt": "99059639",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "10000000",
+            "author": "61555335136303",
+            "time": 1715601823555
+        },
+        {
+            "type": "withdraw",
+            "amount": "10000000",
+            "author": "61555335136303",
+            "time": 1715601863427
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718366624022,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715688223828,
+        "debt": 1715775503625
+    },
+    "pass": "0893",
+    "timestamp_due_repay": 1715774623555
+}

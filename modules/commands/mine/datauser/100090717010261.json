@@ -1,0 +1,29 @@
+{
+  "name": "May Mắn",
+  "ID": "100090717010261",
+  "mainROD": null,
+  "GPS": {
+    "locate": "The Earth",
+    "area": "Vùng Đất Nấm"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Bedrock",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    }
+  ],
+  "item": [
+    {
+      "name": "Cúp gỗ",
+      "price": 400,
+      "durability": 20,
+      "countdown": 10,
+      "countdownData": null,
+      "image": "https://i.imgur.com/IODc9Jo.png"
+    }
+  ],
+  "timeRegister": "19:04:38, 15/1/2024"
+}

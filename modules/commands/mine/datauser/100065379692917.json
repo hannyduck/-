@@ -1,0 +1,61 @@
+{
+  "name": "Phạm Vũ Quốc Thi",
+  "ID": "100065379692917",
+  "mainROD": "Cúp gỗ",
+  "GPS": {
+    "locate": "Nether And The End",
+    "area": "Tàn Tích Nether Cổ"
+  },
+  "fishBag": [
+    {
+      "ID": 0,
+      "name": "Bedrock",
+      "category": "Legendary",
+      "size": 999999,
+      "sell": 0
+    },
+    {
+      "ID": 1,
+      "name": "Đất Nether",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/gLYYk05.png"
+    },
+    {
+      "ID": 2,
+      "name": "Crying Obsidian",
+      "category": "Rare",
+      "size": 21,
+      "sell": 560,
+      "image": "https://i.imgur.com/tjJgtol.png"
+    },
+    {
+      "ID": 3,
+      "name": "Đất Nether",
+      "category": "Common",
+      "size": 27,
+      "sell": 190,
+      "image": "https://i.imgur.com/gLYYk05.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Cúp gỗ",
+      "price": 400,
+      "durability": 10,
+      "countdown": 10,
+      "countdownData": 1708829239217,
+      "image": "https://i.imgur.com/IODc9Jo.png"
+    },
+    {
+      "name": "Cúp đá",
+      "price": 1500,
+      "durability": 50,
+      "countdown": 9,
+      "countdownData": null,
+      "image": "https://i.imgur.com/XHTNRGF.png"
+    }
+  ],
+  "timeRegister": "22:20:50, 9/2/2024"
+}

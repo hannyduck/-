@@ -1,0 +1,35 @@
+{
+    "account_number": "990950",
+    "uid": "100074081422588",
+    "balance": "0",
+    "created_at": 1715372811914,
+    "debt": "99059604",
+    "count_debt": 1,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "9999999",
+            "author": "100074081422588",
+            "time": 1715531416451
+        },
+        {
+            "type": "withdraw",
+            "amount": "9999999",
+            "author": "100074081422588",
+            "time": 1715531716107
+        }
+    ],
+    "logins": [],
+    "settings": {},
+    "expired_ban": {
+        "time": 1718296216739,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715617816855,
+        "debt": 1715704238605
+    },
+    "pass": "sexvn123",
+    "timestamp_due_repay": 1715704216451
+}

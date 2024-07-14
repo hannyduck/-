@@ -1,0 +1,270 @@
+{
+  "name": "Trọng Đức",
+  "ID": "100063957522094",
+  "mainROD": "Cúp sắt",
+  "GPS": {
+    "locate": "The Earth",
+    "area": "Vùng Đất Nấm"
+  },
+  "fishBag": [
+    {
+      "ID": 2,
+      "name": "Đá",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/XKv8I3a.png"
+    },
+    {
+      "ID": 3,
+      "name": "Đất Nhiễm Nấm",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 4,
+      "name": "Đất Nhiễm Nấm",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 5,
+      "name": "Đất Nhiễm Nấm",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 7,
+      "name": "Than",
+      "category": "Common",
+      "size": 29,
+      "sell": 200,
+      "image": "https://i.imgur.com/xXlpNve.png"
+    },
+    {
+      "ID": 8,
+      "name": "Than",
+      "category": "Common",
+      "size": 29,
+      "sell": 200,
+      "image": "https://i.imgur.com/xXlpNve.png"
+    },
+    {
+      "ID": 9,
+      "name": "Than",
+      "category": "Common",
+      "size": 29,
+      "sell": 200,
+      "image": "https://i.imgur.com/xXlpNve.png"
+    },
+    {
+      "ID": 14,
+      "name": "Đất Nhiễm Nấm",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 17,
+      "name": "Đá",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/XKv8I3a.png"
+    },
+    {
+      "ID": 18,
+      "name": "Đá",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/XKv8I3a.png"
+    },
+    {
+      "ID": 24,
+      "name": "Than",
+      "category": "Common",
+      "size": 29,
+      "sell": 200,
+      "image": "https://i.imgur.com/xXlpNve.png"
+    },
+    {
+      "ID": 30,
+      "name": "Đá",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/XKv8I3a.png"
+    },
+    {
+      "ID": 32,
+      "name": "Than",
+      "category": "Common",
+      "size": 29,
+      "sell": 200,
+      "image": "https://i.imgur.com/xXlpNve.png"
+    },
+    {
+      "ID": 35,
+      "name": "Than",
+      "category": "Common",
+      "size": 29,
+      "sell": 200,
+      "image": "https://i.imgur.com/xXlpNve.png"
+    },
+    {
+      "ID": 38,
+      "name": "Đất Nhiễm Nấm",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 40,
+      "name": "Đá",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/XKv8I3a.png"
+    },
+    {
+      "ID": 41,
+      "name": "Đá",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/XKv8I3a.png"
+    },
+    {
+      "ID": 43,
+      "name": "Đất Nhiễm Nấm",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 46,
+      "name": "Đá",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/XKv8I3a.png"
+    },
+    {
+      "ID": 47,
+      "name": "Đất Nhiễm Nấm",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 48,
+      "name": "Đất Nhiễm Nấm",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 51,
+      "name": "Đá",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/XKv8I3a.png"
+    },
+    {
+      "ID": 54,
+      "name": "Đá",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/XKv8I3a.png"
+    },
+    {
+      "ID": 56,
+      "name": "Đất Nhiễm Nấm",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 58,
+      "name": "Đất Nhiễm Nấm",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/dtBM9sP.png"
+    },
+    {
+      "ID": 59,
+      "name": "Đá Cuội",
+      "category": "Uncommon",
+      "size": 190,
+      "sell": 760,
+      "image": "https://i.imgur.com/EF8ufGh.png"
+    },
+    {
+      "ID": 60,
+      "name": "Đá",
+      "category": "Common",
+      "size": 31,
+      "sell": 200,
+      "image": "https://i.imgur.com/XKv8I3a.png"
+    },
+    {
+      "ID": 61,
+      "name": "Than",
+      "category": "Common",
+      "size": 29,
+      "sell": 200,
+      "image": "https://i.imgur.com/xXlpNve.png"
+    },
+    {
+      "ID": 62,
+      "name": "Than",
+      "category": "Common",
+      "size": 29,
+      "sell": 200,
+      "image": "https://i.imgur.com/xXlpNve.png"
+    }
+  ],
+  "item": [
+    {
+      "name": "Cúp gỗ",
+      "price": 400,
+      "durability": 0,
+      "countdown": 10,
+      "countdownData": 1708087411458,
+      "image": "https://i.imgur.com/IODc9Jo.png"
+    },
+    {
+      "name": "Cúp đá",
+      "price": 1500,
+      "durability": 0,
+      "countdown": 9,
+      "countdownData": 1708088535880,
+      "image": "https://i.imgur.com/XHTNRGF.png"
+    },
+    {
+      "name": "Cúp sắt",
+      "price": 4000,
+      "durability": 70,
+      "countdown": 8,
+      "countdownData": 1708150111703,
+      "image": "https://i.imgur.com/Rrlr2ZB.png"
+    }
+  ],
+  "timeRegister": "19:40:21, 16/2/2024"
+}

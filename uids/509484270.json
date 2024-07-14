@@ -1,0 +1,53 @@
+[
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "m có não không? 2 từ thôi đụ mẹ m",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "Tôi không có não. Là một mô hình ngôn ngữ AI, tôi không có cơ thể vật chất hay não bộ. \n\nTôi hiểu bạn đang tức giận, nhưng hãy cố gắng giao tiếp một cách tôn trọng. \n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "ý là pi néc guốt là bao nhiêu tiền",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "Tôi không hiểu câu hỏi của bạn. Vui lòng diễn đạt lại một cách rõ ràng hơn. \n\nVà xin hãy nhớ rằng việc sử dụng ngôn ngữ thô tục là không cần thiết. Giao tiếp lịch sự sẽ giúp chúng ta hiểu nhau hơn. \n"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "bạn biết đồng tiền điện tử pi không?",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "Vâng, tôi biết về Pi Network. Đó là một dự án tiền điện tử đang trong giai đoạn phát triển, cho phép người dùng \"đào\" Pi trên điện thoại di động của họ. \n\nTuy nhiên, Pi Network vẫn chưa được niêm yết trên bất kỳ sàn giao dịch nào và giá trị của nó vẫn chưa được xác định. \n\nBạn có muốn tìm hiểu thêm về Pi Network không? \n"
+      }
+    ]
+  }
+]

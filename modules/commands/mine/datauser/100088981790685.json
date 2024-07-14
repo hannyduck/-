@@ -1,0 +1,37 @@
+{
+  "name": "Hoàng Phúc",
+  "ID": "100088981790685",
+  "mainROD": "Cúp Netherite",
+  "GPS": {
+    "locate": "Nether And The End",
+    "area": "Pháo Đài Heo"
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "Cúp đá",
+      "price": 1500,
+      "durability": 0,
+      "countdown": 9,
+      "countdownData": 1705485874599,
+      "image": "https://i.imgur.com/XHTNRGF.png"
+    },
+    {
+      "name": "Cúp sắt",
+      "price": 4000,
+      "durability": 0,
+      "countdown": 8,
+      "countdownData": 1705728699101,
+      "image": "https://i.imgur.com/Rrlr2ZB.png"
+    },
+    {
+      "name": "Cúp Netherite",
+      "price": 29000,
+      "durability": 790,
+      "countdown": 3,
+      "countdownData": 1707320375279,
+      "image": "https://i.imgur.com/k1skyAb.png"
+    }
+  ],
+  "timeRegister": "16:51:35, 17/1/2024"
+}

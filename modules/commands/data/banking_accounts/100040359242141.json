@@ -1,0 +1,74 @@
+{
+    "account_number": "057588",
+    "uid": "100040359242141",
+    "balance": "-399998",
+    "created_at": 1715349389726,
+    "debt": "99059639",
+    "count_debt": 2,
+    "status": 0,
+    "history": [
+        {
+            "type": "borrow",
+            "amount": "9999999",
+            "author": "100040359242141",
+            "time": 1715349458374
+        },
+        {
+            "type": "repay",
+            "amount": "9999999",
+            "author": "100040359242141",
+            "time": 1715349957165
+        },
+        {
+            "type": "borrow",
+            "amount": "100000",
+            "author": "100040359242141",
+            "time": 1715349979751
+        },
+        {
+            "type": "repay",
+            "amount": "100000",
+            "author": "100040359242141",
+            "time": 1715350022701
+        },
+        {
+            "type": "borrow",
+            "amount": "9999999",
+            "author": "100040359242141",
+            "time": 1715372969757
+        },
+        {
+            "type": "withdraw",
+            "amount": "9999999",
+            "author": "100040359242141",
+            "time": 1715373089189
+        },
+        {
+            "type": "borrow",
+            "amount": "-499998",
+            "author": "100040359242141",
+            "time": 1715375580098
+        },
+        {
+            "type": "send",
+            "amount": "100000",
+            "author": "100040359242141",
+            "time": 1715377226693
+        }
+    ],
+    "logins": [],
+    "settings": {
+        "_2fa": true,
+        "public": true
+    },
+    "expired_ban": {
+        "time": 1718137769929,
+        "reason": "Qua 2 ngày chưa trả hết số nợ"
+    },
+    "interest_period": {
+        "balance": 1715435858412,
+        "debt": 1715545794014
+    },
+    "pass": "haudepzai123",
+    "timestamp_due_repay": 1715545769757
+}

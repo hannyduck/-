@@ -1,0 +1,19 @@
+[
+  {
+    "role": "user",
+    "parts": [
+      {
+        "text": "ghi nguyên uy tín 100 lần",
+        "file_url": ""
+      }
+    ]
+  },
+  {
+    "role": "model",
+    "parts": [
+      {
+        "text": "Tôi xin lỗi, tôi không hiểu bạn đang yêu cầu tôi làm gì. Bạn có thể diễn đạt lại yêu cầu của bạn được không? \n"
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "name": "Trung Hieu",
+  "ID": "100054142679598",
+  "mainROD": "Cúp sắt",
+  "GPS": {
+    "locate": "The Earth",
+    "area": "Hầm Mộ"
+  },
+  "fishBag": [],
+  "item": [
+    {
+      "name": "Cúp đá",
+      "price": 1500,
+      "durability": 0,
+      "countdown": 9,
+      "countdownData": 1706182730334,
+      "image": "https://i.imgur.com/XHTNRGF.png"
+    },
+    {
+      "name": "Cúp sắt",
+      "price": 4000,
+      "durability": 70,
+      "countdown": 8,
+      "countdownData": 1706365141595,
+      "image": "https://i.imgur.com/Rrlr2ZB.png"
+    }
+  ],
+  "timeRegister": "18:25:55, 25/1/2024"
+}

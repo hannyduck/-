@@ -1,0 +1,20 @@
+{
+    "name": "Zenbos Hamayashi",
+    "ID": "61555333417504",
+    "mainROD": null,
+    "GPS": {
+        "locate": null,
+        "area": null
+    },
+    "fishBag": [
+        {
+            "ID": 0,
+            "name": "Bedrock",
+            "category": "Legendary",
+            "size": 999999,
+            "sell": 0
+        }
+    ],
+    "item": [],
+    "timeRegister": "21:16:25, 6/2/2024"
+}
